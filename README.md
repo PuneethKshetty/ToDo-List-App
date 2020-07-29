@@ -1,2 +1,2 @@
 # ToDo-List-App
-This is To-Do-Listing App made by React
+This is a demo on To-Do-Listing App made by React
